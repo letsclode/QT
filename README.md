@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # triviaquiz
 
 A new Flutter project.
@@ -18,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # QT
 >>>>>>> ca573bb2f01f2fa6f4b3a0402c2e37971e1f3da1
+=======
+# QT
+quiztrivia
+>>>>>>> 32811032ae63a293efeaf2106a8fbcef638c290a
